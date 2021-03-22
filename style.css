@@ -1,0 +1,57 @@
+.outer
+{
+position:absolute;
+top:100px;
+left:400px;
+height:400px;
+width:500px;
+background-image: url("bmi.jpg");
+background-size:cover;
+flood-opacity: inherit;
+image-resolution:inherit;
+}.cover
+{
+    position:absolute;
+top:465px;
+left:400px;
+background-color:black;
+height:40px;
+width:500px;
+}
+.inner
+{
+    position:absolute;
+top:150px;
+left:90px;
+height:100px;
+width:500px;
+}
+b{
+    color:white;
+}
+
+.btn
+{
+    background-color:darkolivegreen;
+    border-radius:3px;
+    top:80px;
+    border-color:black;
+    margin-left:90px;
+}
+.w
+{
+    margin-left:23px;
+}
+.bmi
+{
+    
+    
+    border-color:black;
+    margin-left:130px;
+}
+.ref
+{
+    margin-left: 50px;
+    width:80px;
+    background-color: darkred;
+}
